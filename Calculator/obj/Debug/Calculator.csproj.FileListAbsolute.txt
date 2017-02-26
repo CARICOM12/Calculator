@@ -1,0 +1,6 @@
+D:\it-learning\oop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\it-learning\oop\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\it-learning\oop\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\it-learning\oop\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\it-learning\oop\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\it-learning\oop\Calculator\Calculator\obj\Debug\Calculator.pdb
